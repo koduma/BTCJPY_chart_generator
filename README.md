@@ -1,0 +1,1 @@
+# BTCJPY_chart_generator
