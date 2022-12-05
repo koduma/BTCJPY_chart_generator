@@ -1,2 +1,2 @@
-# BTCJPY_chart_generator
+# BTCJPY_simulator
 BTCJPYのチャート生成プログラムです。
